@@ -3,4 +3,4 @@ This program is a complement to the program called `CoordinateCoding`. In this p
 ## Fix and update:
 Currently, no corrections are going to be made in this program, but I welcome criticism and suggestions for the development of this program, and I appreciate you in advance, my dear friend.
 ## Author:
-Maryam Jamali :-)
+Maryam Jamali 💖
