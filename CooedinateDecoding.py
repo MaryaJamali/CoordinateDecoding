@@ -24,3 +24,7 @@ enx[-1] = int(round(float(enx[-1])))
 eny[-1] = int(round(float(eny[-1])))
 print("the result x: " + str(enx[0]) + "." + str(enx[-1]))
 print("the result y: " + str(eny[0]) + "." + str(eny[-1]))
+
+# Name of the programmer: Maryam Jamali
+# Email address: m.jamali16@yahoo.com
+# GitHub address: https://github.com/MaryaJamali
